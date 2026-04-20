@@ -18,7 +18,7 @@ This project is an Excel-based dashboard analyzing call center data for 2023.
 
 ## 📁 File
 
-* dashboard.xlsx
+* call-center-dashboard
 
 ## 📸 Dashboard Preview
 
